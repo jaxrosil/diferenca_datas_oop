@@ -1,6 +1,6 @@
 # Calculadora de diferenças temporais usando OOP
 ## Motivação
-Este projeto pessoal almejava praticar conceitos de **programação orientada a objetos** (OOP), dispondo de outras bagagens teóricas de python já mais consolidadas na minha trajetória como programador.
+Este projeto pessoal almejava praticar conceitos de **programação orientada a objetos** (OOP), dispondo também de bagagens teóricas de python mais consolidadas na minha trajetória como programador.
 ## Apresentação da calculadora
 O notebook calcula a diferenças entre duas quantidades de tempo delimitadas por anos, meses e dias.
 
