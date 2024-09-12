@@ -2,7 +2,7 @@
 ## Motivação
 Este projeto pessoal almejava praticar conceitos de **programação orientada a objetos** (OOP), dispondo também de bagagens teóricas de python mais consolidadas na minha trajetória como programador.
 ## Apresentação da calculadora
-O notebook calcula a diferenças entre duas quantidades de tempo delimitadas por anos, meses e dias.
+O notebook calcula diferenças entre duas quantidades de tempo delimitadas por anos, meses e dias.
 
 Ex.:
 (3 anos, 4 meses, 10 dias) - (1 ano, 2 meses, 19 dias) =
