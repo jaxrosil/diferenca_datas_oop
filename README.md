@@ -9,3 +9,11 @@ Ex.:
 (2 anos, 1 mês, 21 dias)
 
 Para isso, o usuário deve subir um arquivo excel, segundo as instruções fornecidas, com a quantidades temporais que se desejam ser subtraídas.
+## Atualizações
+É possível fazer o mesmo procedimento, porém com interface gráfica mais amigável por meio [deste site](https://huggingface.co/spaces/jaxrosil/calculadora_diferencas_temporais) que criei.
+
+Tecnologias utilizadas:
+- Python: pandas e gradio
+- Docker
+- Git
+- Hugging Face
